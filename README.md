@@ -1,5 +1,10 @@
 # Assignment 3B
 
+## Given Stock data for 5 days, analyze the input given by the files using tools in python, like sqlite. 
+### a) Provide the data in a tabular format and assign confidences given as per the constraints mentioned in the control table.
+### b) To analyze the stocks of the companies over multiple days and observe the growth or depreciation of the stock value. Outputting out the metrics such as the highest performing company, gain%, worst performing company, loss% to name a few.
+<br>
+
 ## Setup
 ### 1. Create a Folder (Name of folder is your \<Roll Number>)
 ### 2. Place 5 Comma Separate files inside the folder. Name, these files as below
